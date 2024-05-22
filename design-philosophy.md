@@ -1,0 +1,4 @@
+- Functional
+- Minimal syntax
+- Different components are distinct, such as functions and variable names, etc
+- Elegant, but not overly verbose
