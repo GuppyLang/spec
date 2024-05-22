@@ -15,3 +15,5 @@ Blocks can also be passed arguments in a similar fashion to functions. This is u
         io.out("#[_.name] is #[_.age] years old.")
     })
 ```
+
+> Note: Blocks are NOT assignable to variables. You should use a function in that scenario.
